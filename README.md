@@ -16,3 +16,4 @@ When not focused on school work, I'm learning about web development, Data analys
 
 - 📫 How to reach me:
 - **EMAIL:** temitopedaniel391@gmail.com
+- **LINKEDIN:** https://www.linkedin.com/in/temitope-isaiah-b11148161
