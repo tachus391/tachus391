@@ -1,16 +1,18 @@
-### Hi there 👋
+### <p align="center"> Hi there, Welcome</p>
+I'M TEMITOPE
 
-<!--
-**tachus391/tachus391** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing a **Mechanical Engineering degree** at University of Ibadan, Ibadan, Nigeria. 
 
-Here are some ideas to get you started:
+I'm **passionate, goal driven and result oriented**, and I can collaborate and work efficientlt within a team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use **Microsoft office, Autocad, Alias, Audacity and other sotware packages.**
+
+When not focused on school work, I'm learning about web development, Data analysis, and other intresting things.
+
+
+- 🌱 I’m currently learning webdevelopment using python
+- ⚡ Fun fact about me: I run Track, and i'm a lover of all things space
+
+
+- 📫 How to reach me:
+- **EMAIL:** temitopedaniel391@gmail.com
